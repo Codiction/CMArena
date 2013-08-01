@@ -1,0 +1,7 @@
+name: CMArenas
+main: com.codiction.Main
+version: 0.0.0.1
+depend: [WorldEdit]
+commands:
+  arena:
+    usage: /<command> (define | select | list | remove | close | open)
