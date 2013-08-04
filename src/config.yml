@@ -1,0 +1,4 @@
+## toolId can be 0 if you want an empty hand
+## default is 352 (bone)
+toolId: 352
+    
